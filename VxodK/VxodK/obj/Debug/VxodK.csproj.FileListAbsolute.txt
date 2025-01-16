@@ -1,0 +1,15 @@
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\bin\Debug\VxodK.exe.config
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\bin\Debug\VxodK.exe
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\bin\Debug\VxodK.pdb
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.csproj.AssemblyReference.cache
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\MainWindow.g.cs
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\App.g.cs
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK_MarkupCompile.cache
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK_MarkupCompile.lref
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\MainWindow.baml
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.g.resources
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.Properties.Resources.resources
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.csproj.GenerateResource.cache
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.csproj.CoreCompileInputs.cache
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.exe
+D:\Programss\VisualStudio\Proekts\VxodK\VxodK\obj\Debug\VxodK.pdb
